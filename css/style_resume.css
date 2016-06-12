@@ -1,0 +1,21 @@
+.container_resume{
+    margin: 80px auto;
+    font-family: "Palatino Linotype", sans-serif;
+    width: 800px;
+}
+
+.name .photo {
+    float: left;
+    width: 150px;
+}
+
+p.name {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p.job {
+    font-size: 18px;
+}
